@@ -7,7 +7,8 @@ def hello_t(array)
         i = i + 1 
       end
       array 
-    end 
+    end
+    puts "Hey! No block was given!"
 
 # call your method here!
 
